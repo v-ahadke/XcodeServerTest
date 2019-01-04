@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         let a = 10
-        b
+        let b = 111
     }
 
     override func didReceiveMemoryWarning() {
