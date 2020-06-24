@@ -1,0 +1,10 @@
+{
+	"webcredentials": {
+		"apps": [
+			"ABCED12345.com.example.MyApp"
+		]
+	},
+	"appclips": {
+        "apps": ["ABCED12345.com.example.MyApp.Clip"]
+    }
+}
